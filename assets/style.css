@@ -24,7 +24,8 @@ a{
 .header{
     width: 100%;
     height: 100vh; 
-    background: url(/hero_2.jpg.webp) center/cover no-repeat fixed;
+    background: url(../hero_2.jpg.webp) center/cover no-repeat fixed;
+    /* background-image: url(/hero_2.jpg.webp);     */
     color: white;
 }
 .headerContainer{
@@ -285,7 +286,7 @@ a{
     position: relative;
     width: 100%;
     height: 200px; 
-    background: url('/hero_2.jpg.webp') center/cover no-repeat fixed;
+    background: url(../hero_2.jpg.webp) center/cover no-repeat fixed;
 }
 .bgImageContainer{
     margin: 0 auto;
